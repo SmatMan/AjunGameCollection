@@ -1,2 +1,2 @@
 # AjunGameCollection
-Just some games.
+A collection of simple games
