@@ -1,0 +1,2 @@
+# AjunGameCollection
+Just some games.
