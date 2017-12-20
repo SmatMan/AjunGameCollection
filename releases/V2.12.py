@@ -181,4 +181,3 @@ def start():
           if c == "2":
             mg()
 start()
-#174 Lines! :)
